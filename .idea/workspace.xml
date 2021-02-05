@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfc195e4-fa5e-476a-91c8-19c669d60e29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaSpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/spring-shell.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/JavaSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/model/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/repository/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/repository/GenreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/AuthorQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/GenreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/impl/AuthorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/impl/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/service/impl/GenreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/shell/ShellLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/java/com/JavaDevSpring/shell/ShellUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpring/src/test/java/com/example/JavaSpring/JavaSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o4W9peM3WpNkRATnB16JP4WSYc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bot\Desktop\JAVA\31.01.2021\spring_homeworks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bot\Desktop\JAVA\31.01.2021\spring_homeworks\JavaSpring" />
+      <recent name="C:\Users\Bot\Desktop\JAVA\31.01.2021\spring_homeworks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.JavaDevSpring.JavaSpringApplication" />
+      <module name="JavaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaDevSpring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaSpringApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc195e4-fa5e-476a-91c8-19c669d60e29" name="Default Changelist" comment="" />
+      <created>1612546195065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612546195065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
